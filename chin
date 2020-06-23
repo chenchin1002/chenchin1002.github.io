@@ -1,7 +1,0 @@
-echo "# chenchin1002" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/chenchin1002/chenchin1002.git
-git push -u origin master
-                
